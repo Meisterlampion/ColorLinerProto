@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B99360AA-9BA0-501B-6BF6-25C2425556D2}") = "Colour Liner", "Assembly-CSharp.csproj", "{A2A40353-132F-9F7F-A365-C083A496C82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A40353-132F-9F7F-A365-C083A496C82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A40353-132F-9F7F-A365-C083A496C82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A40353-132F-9F7F-A365-C083A496C82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A40353-132F-9F7F-A365-C083A496C82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
